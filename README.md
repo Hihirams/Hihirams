@@ -47,8 +47,6 @@ Building a career around frontend development and data analysis. I enjoy transla
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-*Edit the badges above to match what you actually use — add or remove as your stack evolves.*
-
 ---
 
 ### Featured Projects
@@ -64,8 +62,6 @@ Building a career around frontend development and data analysis. I enjoy transla
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hihirams&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Hihirams's GitHub stats" height="165"/>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hihirams&layout=compact&theme=default&hide_border=true" alt="Hihirams's Top Languages" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hihirams&theme=default&hide_border=true" alt="Hihirams's GitHub streak" height="165"/>
 
 </div>
