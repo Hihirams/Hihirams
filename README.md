@@ -54,7 +54,7 @@ Building a career around frontend development and data analysis. I enjoy transla
 | Project | Description | Stack |
 |---|---|---|
 | [Howwk](https://github.com/Hihirams/Howwk) | Tool to generate minimalist, clean flowcharts for your code | Python |
-| [SafePlace-App](https://github.com/Hihirams/SafePlace-App) | iOS mobile application | Swift |
+| [SafePlace-App](https://github.com/Hihirams/SafePlace-App) | iOS mobile application for self-help and journaling | Swift |
 
 ---
 
