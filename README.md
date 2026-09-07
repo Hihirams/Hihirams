@@ -55,10 +55,8 @@ Building a career around frontend development and data analysis. I enjoy transla
 
 | Project | Description | Stack |
 |---|---|---|
-| [Howwk](https://github.com/Hihirams/Howwk) | Tool to generate minimalist, clean flowcharts for your code | HTML |
+| [Howwk](https://github.com/Hihirams/Howwk) | Tool to generate minimalist, clean flowcharts for your code | Python |
 | [SafePlace-App](https://github.com/Hihirams/SafePlace-App) | iOS mobile application | Swift |
-| [ExpoPymeRuleta](https://github.com/Hihirams/ExpoPymeRuleta) | Interactive raffle/roulette app built for a business expo | HTML |
-| [Ceduk-Collectibles](https://github.com/Hihirams/Ceduk-Collectibles) | Web project for a collectibles catalog | HTML |
 
 ---
 
@@ -66,7 +64,8 @@ Building a career around frontend development and data analysis. I enjoy transla
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hihirams&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Hihirams's GitHub stats" height="165"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hihirams&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Hihirams's GitHub stats" height="165"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hihirams&layout=compact&theme=default&hide_border=true" alt="Hihirams's Top Languages" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hihirams&theme=default&hide_border=true" alt="Hihirams's GitHub streak" height="165"/>
 
 </div>
