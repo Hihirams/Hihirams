@@ -13,7 +13,7 @@
 
 ### About Me
 
-Recent graduate (2 months out of school) building a career around frontend development and data analysis. I enjoy translating design into clean, functional interfaces, and I'm expanding into working with data to make more informed, evidence-driven decisions in the products I build.
+Building a career around frontend development and data analysis. I enjoy translating design into clean, functional interfaces, and I'm expanding into working with data to make more informed, evidence-driven decisions in the products I build.
 
 - Comfortable turning designs into responsive, well-structured frontend code
 - Currently deepening my knowledge of data analysis
